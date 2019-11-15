@@ -23,7 +23,7 @@ a {
   background-color: #ffff00;
 }
 
-img ~ p {
+figcaption ~ p {
   font-size: 14px;
   text-align: center
   
