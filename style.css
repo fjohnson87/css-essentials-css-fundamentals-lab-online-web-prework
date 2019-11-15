@@ -33,4 +33,12 @@ p ~ #featured-property {
   text-align: center;
 }
 
-#details {}
+#details {
+  display: block;
+  float: left;
+}
+
+div {
+  background-color: 
+  
+}
