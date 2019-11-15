@@ -39,6 +39,8 @@ p ~ #featured-property {
 }
 
 div {
-  background-color: 
+  background-color: #ff8000;
+  text-align: center;
+  width: 25%;
   
 }
